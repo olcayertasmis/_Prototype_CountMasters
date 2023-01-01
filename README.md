@@ -11,4 +11,4 @@ The construction of this prototype game is based on the tutorial series video.
 2- People lined up on the tower have a misalignment.
 
 ## Gameplay
-https://github.com/olcayertasmis/_Prototype_CountMasters/issues/1#issue-1515525179
+https://user-images.githubusercontent.com/75525280/210170270-a78cbb3d-1a92-4d08-91c4-48d6107d098c.mp4
